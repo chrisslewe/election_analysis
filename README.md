@@ -1,6 +1,6 @@
 # election analysis 2021 and 2022 the Hague
 
-a notebook based analysis of the elections of 2021 (national) and 2022 (municipal) in the Hague. 
+A notebook based analysis of the elections of 2021 (national) and 2022 (municipal) in the Hague. 
 
 The data is collected in 01_webscraping, transformed in 02_transformation and analysed and visualized in 03_analysis. The shapefiles folder contain the output of geopandas, a Python library for GIS-analysis. 
 
